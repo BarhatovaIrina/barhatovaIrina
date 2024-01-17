@@ -1,6 +1,6 @@
 ### Hi, I'm Irina 👋
-✨ I'm a frontend developer.
-✨ I’m currently working on React-apps.
+<p>✨ I'm a frontend developer.</p>
+<p>✨ I’m currently working on React-apps.</p>
 
 My contacts
 <p><a href="https://t.me/Irina_Barkhatova"><img src="https://github.com/BarhatovaIrina/barhatovaIrina/assets/99141220/8da8dfc6-36a8-4020-8d7f-ea244a0483f0" width=30 height=30></a> <a href="mailto:i.a.barhatova@yandex.ru"><img src="https://github.com/BarhatovaIrina/barhatovaIrina/assets/99141220/19f8207b-d2cd-436c-b6d7-32bded2a758c" width=29 height=29></a></p>
